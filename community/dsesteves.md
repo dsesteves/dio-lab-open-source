@@ -4,6 +4,12 @@
 
 Atualmente trabalho como Pré-Impressor e Projetista em uma empresa de Comunicação Visual. Vi na Programação uma grande oportunidade de me aprimorar, tanto para meu trabalho como possibilidade de uma nova oportunidade de aprendizado e jornada.
 
+## Meu Resumo das Aulas
+
+| Resumo | Link |
+| --- | --- |
+|Minhas Anotações|[Clique Aqui](https://onedrive.live.com/edit.aspx?resid=561644B90CBC134D!s445fed7a95a841cfb9dd910c98bc88d7&migratedtospo=true&wd=target%28Anota%C3%A7%C3%B5es%20R%C3%A1pidas.one%7Cfbcb8041-e9dd-428d-9f90-bfa07bc41105%2F1.%20Entendendo%20Comunica%C3%A7%C3%A3o%20Client%20x%20Server%7Ca0343f50-aecc-4590-95bb-b1642097f449%2F%29&wdorigin=NavigationUrl)|
+
 
 ### 🔗 Conecte-se comigo: 
 
